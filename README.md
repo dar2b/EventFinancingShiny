@@ -1,1 +1,2 @@
 # EventFinancingShiny
+Over the two decades financial markets have see a growing shift towards passive funds. With this, traditional active portfolio management has waned on account of capital allocated to each of these products. As I do not examine its capital allocation within this dashboard, I have instead taken a look into the public information of Goldman Sachs' Blue Chip mutual fund. As seen, this portfolio is comprised of equities.
